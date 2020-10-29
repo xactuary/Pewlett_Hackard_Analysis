@@ -21,7 +21,13 @@ Using this diagram, a list was extracted that shows the employee names, birth da
   
 ![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_1_retirement_titles_snip.PNG)
   
-The previous file contained some duplicates for employees who may have been promoted over time.  So an additional table was created that has only the last title carried by the employee.
+The previous file contained some duplicates for employees who may have been promoted over time.  So an additional table was created that has only the last title carried by the employee.  So for example, employee Koiychi had 2 entries but the latest job title was Senior Staff.  so the next table removes the older title and only keeps the current one. 
   
 ![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_2_unique_titles_snip.PNG)
+  
+Because the number of employees on these lists is so large, we have developed a summary exhibit of this first part of the analysis:
+  
+![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_3_retiring_titles_snip.PNG)
+  
+  
 
