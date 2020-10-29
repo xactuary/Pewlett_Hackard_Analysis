@@ -15,5 +15,7 @@ The following data base files were provided in csv format:
 ### ANALYSIS
 The first step of the project was to look at the databases provided and create an Entity Relationship Diagram (ERD) in order to see what variables we have and how they can be used and combined as shown below:
 ![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/EmployeeDB.png)
+
 Using this diagram, a list was extracted that shows the employee names, birth dates, titles and employment.  A preview of the file is as follows:
-![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/EmployeeDB.png)
+![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_1_retirement_titles_snip.PNG)
+
