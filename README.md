@@ -38,9 +38,10 @@ The first part of the analysis showed the company that:
     
 1. There is a significant number of employees who are approaching retirement age
 2. The bulk of the potential retirees hold senior level engineering or staff positions
-  
-The fact that there are so many potential retirees and that they hold senior positions means management needs to prepare to fill these jobs.  The second part of the analysis provides some help with this problem:
-  
-3. There are a significant number of current employees with senior experience that are within 10 years of retirement who could be used to mentor junior employees
+3. With the large number of potential retirees in senior positions, the company needs to prepare to fill these positions in the near future
+4. There are a significant number of current employees with senior experience that are within 10 years of retirement who could be used to mentor junior employees
+    
+Additional queries and summaries that would be valuable in this analysis includes a count of potential mentors by department as well as a count of potential mentors for more additional birth years.  
+
 
 
