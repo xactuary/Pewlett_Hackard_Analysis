@@ -19,3 +19,5 @@ The first step of the project was to look at the databases provided and create a
 Using this diagram, a list was extracted that shows the employee names, birth dates, titles and employment.  A preview of the file is as follows:
 ![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_1_retirement_titles_snip.PNG)
 
+
+
