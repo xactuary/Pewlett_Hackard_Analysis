@@ -12,5 +12,6 @@ The following data base files were provided in csv format:
 5. Titles
 6. Dept_emp
 
-###ANALYSIS
+### ANALYSIS
 The first step of the project was to look at the databases provided and create a Schema in order to see what variables we have and how they can be used and combined.  
+![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/EmployeeDB.png)
