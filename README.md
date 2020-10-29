@@ -29,6 +29,6 @@ Because the number of employees on these lists is so large, we have developed a 
   
 ![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_3_retiring_titles_snip.PNG)
 
-Because of the very large number of senior staff that are eligible for retirement, management now wants to explore which employees are eligible for a mentorship program so they can make sure they have a plenty of trained employees ready to step into senior roles.  Using the same data, an extract was created of employees who were born in 1965 and are currently employed as this must be the criteria for being eligible for the mentorship program.  
+Because of the very large number of senior staff that are eligible for retirement, management now wants to explore which employees are eligible for a mentorship program so they can make sure they have a plenty of trained employees ready to step into senior roles.  Using the same data, an extract was created of employees who were born in 1965 and are currently employed - as this must be the criteria for being eligible for the mentorship program.  
   
-
+![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_4_mentorship_snip.PNG)
