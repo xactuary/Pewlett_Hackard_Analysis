@@ -32,3 +32,15 @@ Because the number of employees on these lists is so large, we have developed a 
 Because of the very large number of senior staff that are eligible for retirement, management now wants to explore which employees are eligible for a mentorship program so they can make sure they have a plenty of trained employees ready to step into senior roles.  Using the same data, an extract was created of employees who were born in 1965 and are currently employed - as this must be the criteria for being eligible for the mentorship program.  
   
 ![](https://github.com/xactuary/Pewlett_Hackard_Analysis/blob/main/Data/Table_4_mentorship_snip.PNG)
+
+# CONCLUSION
+The first part of the analysis showed the company that:
+    
+1. There is a significant number of employees who are approaching retirement age
+2. The bulk of the potential retirees hold senior level engineering or staff positions
+  
+The fact that there are so many potential retirees and that they hold senior positions means management needs to prepare to fill these jobs.  The second part of the analysis provides some help with this problem:
+  
+3. There are a significant number of current employees with senior experience that are within 10 years of retirement who could be used to mentor junior employees
+
+
