@@ -11,3 +11,6 @@ The following data base files were provided in csv format:
 4. Salaries
 5. Titles
 6. Dept_emp
+
+###ANALYSIS
+The first step of the project was to look at the databases provided and create a Schema in order to see what variables we have and how they can be used and combined.  
